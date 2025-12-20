@@ -47,3 +47,8 @@ htmlcov/
 
 # Model cache
 .u2net/
+
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
